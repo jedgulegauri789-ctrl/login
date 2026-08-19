@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
 }
 
-/* Navbar */
+
 
 .navbar {
   width: 100%;
@@ -32,7 +32,6 @@ body {
   z-index: 1000;
 }
 
-/* Logo */
 
 .logo {
   font-size: 25px;
@@ -67,7 +66,7 @@ body {
   background: #eef2ff;
 }
 
-/* Login Button */
+
 
 .login-btn {
   color: white;
@@ -80,7 +79,6 @@ body {
   transform: translateY(-2px);
 }
 
-/* Page */
 
 .page-content {
   min-height: calc(100vh - 75px);
